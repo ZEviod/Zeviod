@@ -21,7 +21,7 @@
             alt="ZEviod" /> </p>
 
   <p align="center" "width:100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZEviod&show_icons=true&locale=en&layout=compact&theme=dark" alt="ZEviod" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEviod&theme=dark" alt="ZEviod" />
     <img src="https://github-readme-stats.vercel.app/api?username=ZEviod&hide=stars&show_icons=True&theme=dark" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEviod&theme=dark" />
   </p>
