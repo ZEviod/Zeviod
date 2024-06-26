@@ -26,6 +26,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEviod&theme=dark" />
   </p>
 
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
