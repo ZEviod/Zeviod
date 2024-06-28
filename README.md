@@ -4,7 +4,7 @@
   </p>
  </h1>
  
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/039/201/678/large/egor-belavsky-comp-loona-2.jpg?1625221586)
+![MasterHead](https://github.com/ZEviod/Zeviod/blob/main/comppic.jpg)
 
 ### About me:
 - 🎓 I am an Undergrad at SVNIT
@@ -45,10 +45,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" alt="oauth" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" alt="react-router" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
